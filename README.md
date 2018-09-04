@@ -56,4 +56,4 @@ We hope you enjoy! :v::grin:
 
 #### Disclaimer
 
-not maintained etc.
+This project is neither maintained actively nor is the code cleaned in any way, it is in fact simply the product of the time we spent on this and up here for anyone who likes to try something out that we enjoyed doing :smile:
